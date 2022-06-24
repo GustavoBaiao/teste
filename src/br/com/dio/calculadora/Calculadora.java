@@ -1,4 +1,4 @@
-package calculadora;
+package br.com.dio.calculadora;
 
 import java.util.Scanner;
 
